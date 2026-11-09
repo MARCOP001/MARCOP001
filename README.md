@@ -1,5 +1,4 @@
-# 💫 About Me:
-# Hi, I'm Marco Pisacane
+# Marco Michele Pisacane | Data Science & AI
 
 I'm an MSc student in Data Science (Intelligent Systems) at the University of Naples Federico II, with a BSc in Computer Science from the University of Naples Parthenope.
 
